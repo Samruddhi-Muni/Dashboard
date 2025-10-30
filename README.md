@@ -1,1 +1,2 @@
-netflix dashboard ,we have used netflix dataset
+Netflix Dashboard - Data Visualization project.
+welcome to the Netflix Dashboard Project, where data meets storytelling. using a netflix sample dataset we visualized content type distribution(TV shows or Movies), Top 5 countries by number of titles(top 5 countries that releases the shows or movies the most per year), and number of titles released per year(that is number of movies released per year). 
